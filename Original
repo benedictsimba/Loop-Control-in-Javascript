@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<title></title>
+
+<head></head>
+
+<body>
+    <script language="javascript">
+        <!--
+        var x = 1
+        document.write("Begining of - Loop Control<br>")
+        document.write("-------------------------------<br>")
+        while (x < 20) {
+            if (x == 15) {
+                break; //Break out of loop if value is as above
+            }
+            x++
+            document.write("Value of x = " + x + "<br>")
+        }
+
+        document.write("<br>End of - Loop Control<br>")
+        document.write("-------------------------------<br>")
+        //-->
+    </script>
+</body>
+
+</html>
